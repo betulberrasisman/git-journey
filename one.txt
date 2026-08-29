@@ -1,2 +1,8 @@
 one
+<<<<<<< Updated upstream
 1
+=======
+1
+11
+Another Feature
+>>>>>>> Stashed changes
